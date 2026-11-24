@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="teclas_nome">Lume TV – botões do controle</string>
+    <string name="teclas_descricao">Faz os botões Netflix, YouTube, Configurações e TV do controle funcionarem com o Lume TV como tela inicial.</string>
+</resources>

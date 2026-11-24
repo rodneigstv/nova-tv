@@ -1,0 +1,9 @@
+.gradle/
+.kotlin/
+build/
+local.properties
+segredos.properties
+*.iml
+.idea/
+app/src/main/assets/netflix_historico.csv
+*.apk
